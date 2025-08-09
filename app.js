@@ -12,15 +12,17 @@ function adicionarAmigo(){
     }
     input.value = '';
     console.table(amigos);
+    atualizarListaAmigo()
 }
 
 function atualizarListaAmigo(){
-    let listaAmigo = document.getElementById('listaAmigos');
-    listaAmigo = innerHTML = "";
+    let lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
     
-    for (let i; i < amigos.length; i++){
+    for (let i = 0; i < amigos.length; i++){
         let element = document.createElement('li')
         element.innerHTML = amigos[i];
-        listaAmigo.appendChild(element);
+        lista.appendChild(element);
     }
+    return lista;
 }
