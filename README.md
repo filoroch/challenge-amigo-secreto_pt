@@ -12,7 +12,7 @@ Para rodar o projeto localmente, primeiro é necessario obter o projeto.
 ### Obtendo o projeto via zip
 Clique em Code > Download ZIP:
 ![print_github_1](assets/image-1.png)
-## Obtendo o projeto via git:
+### Obtendo o projeto via git:
 ```
 git clone https://github.com/filoroch/challenge-amigo-secreto_pt
 ```
