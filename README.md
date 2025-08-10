@@ -1,8 +1,10 @@
-![print_amigoSecreto_1](assets/image.png)
-
-<h1 align="center">Desafio: Amigo Secreto - Oracle Next Education </h1>
-
+<div align="center">
+  <h1 style="border-bottom: 1px solid white"><strong>Desafio</strong>: Amigo Secreto <br>Oracle Next Education </h1> 
+  <img src="https://img.shields.io/github/last-commit/filoroch/challenge-amigo-secreto_pt" />
+  <img src="https://img.shields.io/github/created-at/filoroch/challenge-amigo-secreto_pt" />
+</div>
 O desafio consistia em desenvolver a logica de funcionamento da tela estatica do jogo Amigo Secreto, escrito em HTML e CSS. As tarefas eram bem definidas e restritivas
+
 
 ## Como rodar o projeto
 Para rodar o projeto localmente, primeiro é necessario obter o projeto.
